@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<divcolors>
+<div name ="d1">
+    <color>aliceblue</color>
+</div>
+<div name ="d2">
+    <color>aquamarine</color>
+</div>
+<div name="d3">
+    <color>coral</color>
+</div>
+<div name="d4">
+    <color>cornflowerblue</color>
+</div>
+<div name="d5">
+    <color>cyan</color>
+</div>
+<div name="d6">
+    <color>darkgray</color>
+</div>
+<div name="d7">
+    <color>darkolivegreen</color>
+</div>
+<div name="d8">
+    <color>darkviolet</color>
+</div>
+<div name="d9">
+    <color>deepskyblue</color>
+</div>
+<div name="d10">
+    <color>forestgreen</color>
+</div>
+<div name="d11">
+    <color>honeydew</color>
+</div>
+<div name="d12">
+    <color>lightsalmon</color>
+</div>
+<div name="d13">
+    <color>lightsteelblue</color>
+</div>
+<div name="d14">
+    <color>maroon</color>
+</div>
+<div name="d15">
+    <color>mediumspringgreen</color>
+</div>
+<div name="d16">
+    <color>mediumturquiose</color>
+</div>
+<div name="d17">
+    <color>mistyrose</color>
+</div>
+<div name="d18">
+    <color>oldlace</color>
+</div>
+<div name="d19">
+    <color>olive</color>
+</div>
+<div name="d20">
+    <color>azure</color>
+</div>
+</divcolors>

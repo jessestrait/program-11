@@ -1,0 +1,174 @@
+#title {
+	text-align: center;
+	margin-left: auto;
+  	margin-right: auto;
+  	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, p {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dMain {
+  width: 25%;
+  height: 500px;
+  margin: auto;
+  padding: 10px;
+  float: center;
+}
+#buttons, #winloc, #cookies, #java, #changeDiv, #changeIntDiv, #cookieD, #number7 {
+  background-color: lightgrey;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+#d1 {
+  background-color: lightblue;
+  height: 100px;
+  width: 100px;
+  float: left;
+  
+}
+#d2 {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  float: left;
+  
+}
+#d3 {
+  background-color: purple;
+  height: 100px;
+  width: 100px;
+  float: left;
+  
+}
+#d4 {
+  background-color: grey;
+  height: 100px;
+  width: 100px;
+  float: left;
+ 
+}
+#d4 {
+  background-color: teal;
+  height: 100px;
+  width: 100px;
+  float: left;
+  
+}
+#d5 {
+  background-color: magenta;
+  height: 100px;
+  width: 100px;
+  float: left;
+ 
+}
+#d6 {
+  background-color: forestgreen;
+  height: 100px;
+  width: 100px;
+  float: left;
+
+}
+#d7 {
+  background-color: lightgreen;
+  height: 100px;
+  width: 100px;
+  float: left;
+  
+}
+#d8 {
+  background-color: lightgrey;
+  height: 100px;
+  width: 100px;
+  float: left;
+
+}
+#d9 {
+  background-color: lightblue;
+  height: 100px;
+  width: 100px;
+  float: left;
+  
+}
+#d10 {
+  background-color: powderblue;
+  height: 100px;
+  width: 100px;
+  float: left;
+ 
+}
+#d11 {
+  background-color: tomato;
+  height: 100px;
+  width: 100px;
+  float: left;
+ 
+}
+#d12 {
+  background-color: gold;
+  height: 100px;
+  width: 100px;
+  float: left;
+  
+}
+#d13 {
+  background-color: silver;
+  height: 100px;
+  width: 100px;
+  float: left;
+  
+}
+#d14 {
+  background-color: darksalmon;
+  height: 100px;
+  width: 100px;
+  float: left;
+ 
+}
+#d15 {
+  background-color: lightcoral;
+  height: 100px;
+  width: 100px;
+  float: left;
+  
+}
+#d16 {
+  background-color: firebrick;
+  height: 100px;
+  width: 100px;
+  float: left;
+  
+}
+#d17 {
+  background-color: coral;
+  height: 100px;
+  width: 100px;
+  float: left;
+  
+}
+#d18 {
+  background-color: papayawhip;
+  height: 100px;
+  width: 100px;
+  float: left;
+ 
+}
+#d19 {
+  background-color: aqua;
+  height: 100px;
+  width: 100px;
+  float: left;
+  
+}
+#d20 {
+  background-color: darkturquoise;
+  height: 100px;
+  width: 100px;
+  float: left;
+
+}
